@@ -15,6 +15,7 @@ public class Boot5Application {
         System.out.println("偷家!!!");
         System.out.println("-------------------");
         System.out.println("偷家!!!");
+        System.out.println("偷家!!!");
 
     }
 
