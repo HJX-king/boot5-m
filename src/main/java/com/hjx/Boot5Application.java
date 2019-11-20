@@ -11,6 +11,10 @@ public class Boot5Application {
     {
         SpringApplication.run(Boot5Application.class, args);
         System.out.println("快点给我写代码!!!!!");
+        System.out.println("-------------------");
+        System.out.println("偷家!!!");
+        System.out.println("-------------------");
+
     }
 
 }
