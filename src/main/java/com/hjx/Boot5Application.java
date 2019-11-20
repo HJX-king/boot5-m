@@ -10,7 +10,7 @@ public class Boot5Application {
     public static void main(String[] args)
     {
         SpringApplication.run(Boot5Application.class, args);
-        System.out.println("快点给我写代码!!!!!34539090");
+        System.out.println("快点给我写代码!!!!!77777777");
         System.out.println("-------------------");
         System.out.println("偷家!!!");
         System.out.println("-------------------");
